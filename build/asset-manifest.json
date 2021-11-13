@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Singapuri-React-Portfolio/static/js/main.b62e537f.chunk.js",
+    "main.js.map": "/Singapuri-React-Portfolio/static/js/main.b62e537f.chunk.js.map",
+    "runtime-main.js": "/Singapuri-React-Portfolio/static/js/runtime-main.53a754df.js",
+    "runtime-main.js.map": "/Singapuri-React-Portfolio/static/js/runtime-main.53a754df.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Singapuri-React-Portfolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.bb4c0d52.chunk.js": "/Singapuri-React-Portfolio/static/js/2.bb4c0d52.chunk.js",
+    "static/js/2.bb4c0d52.chunk.js.map": "/Singapuri-React-Portfolio/static/js/2.bb4c0d52.chunk.js.map",
+    "index.html": "/Singapuri-React-Portfolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Singapuri-React-Portfolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.bb4c0d52.chunk.js.LICENSE.txt": "/Singapuri-React-Portfolio/static/js/2.bb4c0d52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53a754df.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.bb4c0d52.chunk.js",
+    "static/js/main.b62e537f.chunk.js"
+  ]
+}

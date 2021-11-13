@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Jsingapuri.github.io/react-app1",
-  "name": "00-practice-app",
+  "homepage": "http://Jsingapuri.github.io/Singapuri-React-Portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
